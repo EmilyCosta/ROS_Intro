@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="omni" type="pub_vel_tele.py" name="Vel_node" />
+    <node pkg="rosserial_arduino" type="serial_node.py" name="serial_node" />
+    <node pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" name="teleop_twist_keyboard" />
+    
+</launch>
