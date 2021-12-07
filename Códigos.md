@@ -1,6 +1,7 @@
 # Códigos
 
-Aqui ficarão disponíveis todos os programas necessários para o acompanhamento produtivo do ROS Workshop.
+Aqui ficarão disponíveis os programas principais utilizados no desenvolvimento de aplicações que utilizam o ROS.
+
 
 ## pub.py
 
