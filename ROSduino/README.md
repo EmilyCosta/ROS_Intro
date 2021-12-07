@@ -27,3 +27,9 @@ Iniciar o nó de comunicação:
 ```SHELL
 $ rosrun rosserial_arduino serial_node.py _port:=/dev/ttyUSB0
 ```
+
+## Máquina Virtual
+
+Caso o tutorial esteja sendo executado em uma máquina virtual, deve-se habilitar a leitura da porta do computador pela máquina virtual da seguinte forma:
+
+![USB em máquina virtual](/img/ROSduino - Máquina virtual.png "Habilitar USB na máquina virtual")
